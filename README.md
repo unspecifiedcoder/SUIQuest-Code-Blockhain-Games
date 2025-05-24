@@ -27,17 +27,17 @@ We’re bridging the gap between learning and doing—empowering devs to upskill
 
 ## ✅ Our Solution
 
-🎮 **Gamified Learning Platform**
-📚 All-in-one quest-based learning with interactive code editor and real-time feedback.
+* 🎮 **Gamified Learning Platform**
+  All-in-one quest-based learning with interactive code editor and real-time feedback.
 
-🏅 **Evolving NFT Certifications**
-Earn verifiable, evolving NFT badges for completing quests, representing your skill level and expertise on-chain.
+* 🏅 **Evolving NFT Certifications**
+  Earn verifiable, evolving NFT badges for completing quests, representing your skill level and expertise on-chain.
 
-💬 **Community Forum**
-Get help, collaborate with peers, and share insights with fellow builders.
+* 💬 **Community Forum**
+  Get help, collaborate with peers, and share insights with fellow builders.
 
-🛠️ **Freelance Missions**
-Match with real-world freelance Sui projects based on your NFT skill badges.
+* 🛠️ **Freelance Missions**
+  Match with real-world freelance Sui projects based on your NFT skill badges.
 
 ---
 
@@ -82,7 +82,7 @@ We’re seeking **\$150K in grant funding**:
 * 💻 \$75K: Development, infrastructure, and team.
 * ✍️ \$75K: Onboarding quest editors and building more learning content.
 
-**ROI for the ecosystem:** Mass onboarding of skilled, certified, and ready-to-build developers into the Sui ecosystem.
+**ROI for the ecosystem**: Mass onboarding of skilled, certified, and ready-to-build developers into the Sui ecosystem.
 
 ---
 
@@ -149,3 +149,4 @@ We’re seeking **\$150K in grant funding**:
 
 ---
 
+Let me know if you need a version with YAML frontmatter for a static site generator, or want to embed this as a value in a YAML file.
