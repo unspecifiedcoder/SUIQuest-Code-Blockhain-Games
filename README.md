@@ -1,5 +1,4 @@
 ---
-
 # 🚀 SuiQuest — Onboarding the Next Million Developers into Sui
 
 **Live Dapp**: [https://suiquest.surge.sh](https://suiquest.surge.sh)
