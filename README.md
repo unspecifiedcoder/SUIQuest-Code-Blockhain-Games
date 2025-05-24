@@ -1,4 +1,3 @@
----
 # 🚀 SuiQuest — Onboarding the Next Million Developers into Sui
 
 **Live Dapp**: [https://suiquest.surge.sh](https://suiquest.surge.sh)
@@ -6,7 +5,6 @@
 🎥 [Backend Demo with Explanation](https://www.youtube.com/embed/vxwfKJ5nGIs?si=nWlmnl6usE7xugv2)
 📸 ![Live Preview](https://github.com/KRYPTOSPHERE-SUI-Hackathon/suiquest/assets/11545946/ad6cb46c-5a82-41bc-b173-f4e359561247)
 
----
 
 ## 💡 What is SuiQuest?
 
